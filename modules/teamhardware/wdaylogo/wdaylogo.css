@@ -1,0 +1,16 @@
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wday-logo{
+  background-image: url("./Reversed.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 213px;
+  height: 86px;
+  /* width: 104px;
+  height: 42px; */
+}
